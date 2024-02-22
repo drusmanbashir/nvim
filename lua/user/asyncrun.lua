@@ -1,0 +1,6 @@
+-- local asyncrun = require('asyncrun')
+--
+-- function RunCMakeProgram()
+--     asyncrun.run('make', { cwd = vim.fn.expand('%:p:h') })
+-- end
+--
